@@ -31,6 +31,4 @@ $bikes = [
     ]
 ];
 
-
-// return $bikes;
 ?>
